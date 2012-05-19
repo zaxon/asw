@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello World!
+title: zaxon only
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
