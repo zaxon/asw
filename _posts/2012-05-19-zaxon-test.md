@@ -1,9 +1,0 @@
----
-layout: post
-title: "zaxon test"
-description: ""
-category:
-- java 
-tags: []
----
-{% include JB/setup %}
